@@ -12,6 +12,9 @@
     "post-update": "yarn upgrade --latest"
   },
   "dependencies": {
-    "nuxt": "^2.15.0"
+    "nuxt": "^3.6.5"
+  },
+  "devDependencies": {
+    "@vue/runtime-dom": "^3.3.4"
   }
 }
